@@ -1,0 +1,10 @@
+C:\Users\User\Documents\SharpDevelop Projects\AnotherTest\AnotherTest\obj\Debug\AnotherTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\AnotherTest\AnotherTest\obj\Debug\AnotherTest.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\AnotherTest\AnotherTest\obj\Debug\AnotherTest.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\AnotherTest\AnotherTest\obj\Debug\AnotherTest.Form2.resources
+C:\Users\User\Documents\SharpDevelop Projects\AnotherTest\AnotherTest\obj\Debug\AnotherTest.Form3.resources
+C:\Users\User\Documents\SharpDevelop Projects\AnotherTest\AnotherTest\obj\Debug\AnotherTest.Form4.resources
+C:\Users\User\Documents\SharpDevelop Projects\AnotherTest\AnotherTest\bin\Debug\AnotherTest.exe
+C:\Users\User\Documents\SharpDevelop Projects\AnotherTest\AnotherTest\bin\Debug\AnotherTest.pdb
+C:\Users\User\Documents\SharpDevelop Projects\AnotherTest\AnotherTest\obj\Debug\AnotherTest.exe
+C:\Users\User\Documents\SharpDevelop Projects\AnotherTest\AnotherTest\obj\Debug\AnotherTest.pdb
